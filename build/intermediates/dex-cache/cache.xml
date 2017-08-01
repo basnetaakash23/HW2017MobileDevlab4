@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/aakashb/Desktop/Lab4_currencyConverter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="15eba304d6a3d1ce9fdeb22eec58f4f7b6897535">
+        <dex dex="/Users/aakashb/Desktop/Lab4_currencyConverter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2d3c5742f75edaf34d0a08acca39c3b24f28e425/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aakashb/.android/build-cache/7a44cbf0102375453ab41d4272dddcbe555b8b10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/aakashb/Desktop/Lab4_currencyConverter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4487f50e34084694231ae9e1051d005acc9a14a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aakashb/Desktop/Lab4_currencyConverter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/aakashb/Desktop/Lab4_currencyConverter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_02203fb608d6fed6ba0b943e0576b50c8abf38d8/classes.dex" />
+    </item>
+
+</items>
